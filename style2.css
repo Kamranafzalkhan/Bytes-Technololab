@@ -188,7 +188,9 @@
         padding-bottom: auto;
 
     }
-
+    .wraper2{
+        margin-bottom: 100px !important; 
+    }
     .image-container {
         width: 100vw;
         height: 50vh; /* Image occupies half of the viewport height */
@@ -242,14 +244,14 @@
     }
 
     .form-container{
-             margin-left: 15px;
+        margin-left: 15px;
         margin-right: 15px;
     }
 
     .wraper2{
         margin-top: 45px !important;
         margin-left: 25px !important;
-        margin-bottom: 50px !important; ;
+        margin-bottom: 300px !important; 
     }
 
     .image-container {
