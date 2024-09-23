@@ -188,9 +188,7 @@
         padding-bottom: auto;
 
     }
-    .wraper2{
-        margin-bottom: 100px !important; 
-    }
+
     .image-container {
         width: 100vw;
         height: 50vh; /* Image occupies half of the viewport height */
@@ -244,16 +242,21 @@
     }
 
     .form-container{
-        margin-left: 15px;
+             margin-left: 15px;
         margin-right: 15px;
     }
 
-    .wraper2{
+    .wraper2 {
         margin-top: 45px !important;
         margin-left: 25px !important;
-        margin-bottom: 300px !important; 
+        
     }
-
+    /* .wraper2 h1{
+        margin-bottom: 100px !important;
+    } */
+    .container{
+        margin-top: 60px !important;
+    }
     .image-container {
         width: 100vw;
         height: 40vh; /* Image occupies less height */
