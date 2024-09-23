@@ -191,7 +191,7 @@
 
     .image-container {
         width: 100vw;
-        height: 50vh; /* Image occupies half of the viewport height */
+        height: 70vh; /* Image occupies half of the viewport height */
     }
 
     .home-banner-p1 {
