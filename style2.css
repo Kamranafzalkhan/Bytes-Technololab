@@ -259,7 +259,7 @@
     }
     .image-container {
         width: 100vw;
-        height: 70vh; /* Image occupies less height */
+        height: 55vh; /* Image occupies less height */
     }
 
     .home-banner-p1 img {
