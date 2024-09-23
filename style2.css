@@ -37,7 +37,7 @@
 .home-banner-p1 img {
     width:33vw;
     height: auto;
-    animation: shape-rotate 240s linear infinite, shape-deform 24s ease-in-out infinite;
+    animation: shape-rotate 200s linear infinite, shape-deform 24s ease-in-out infinite;
 }
 
 /* Keyframes for Animation */
@@ -260,7 +260,7 @@
     .image-container {
         width: 100vw;
         height: 40vh; /* Image occupies less height */
-        margin-bottom: 30px !important;
+        margin-bottom: 100px !important;
     }
 
     .home-banner-p1 img {
