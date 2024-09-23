@@ -252,7 +252,7 @@
         
     }
     .wraper2 h1{
-        font-size: 30px !important;
+        font-size: 25px !important;
     }
     .container{
         margin-top: 10px !important;
@@ -260,6 +260,7 @@
     .image-container {
         width: 100vw;
         height: 40vh; /* Image occupies less height */
+        margin-bottom: 30px !important;
     }
 
     .home-banner-p1 img {
